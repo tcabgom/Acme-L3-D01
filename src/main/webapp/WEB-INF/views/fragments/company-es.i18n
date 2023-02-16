@@ -8,11 +8,11 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-master.company.title = La empresa
+master.company.title = C1.02.14
 master.company.text = \
-	Hello World, Inc. es una empresa ficticia que ofrece un proyecto starter para los \
-	estudiantes de la asignatura Diseño y Pruebas de la titulación de \
-	Ingeniería del Software en la Universidad de Seville. 
+	Esta aplicación está siendo desarrollada por el grupo C1.02.14 \
+	de la asignatura Diseño y Pruebas del grado en Ingeniería del \
+	Software.
 master.company.name = Acme, Inc.
 master.company.address = 01 Acme Drive, Wondercity, Wonderland
 master.company.phone = +1 000 111 222
