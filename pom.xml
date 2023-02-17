@@ -19,7 +19,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<name>Acme-L3-D01</name>
-	<description>This is a design project for the students of Design &amp; Testing.</description>
+	<description>This is a Hello-World project for the students of Design &amp; Testing.</description>
 
 	<groupId>Acme</groupId>	
 	<artifactId>Acme-L3-D01</artifactId>
