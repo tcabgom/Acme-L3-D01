@@ -8,8 +8,8 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-master.welcome.title = ¡Bienvenidos a la aplicación Acme-L3!
+master.welcome.title = ¡Le damos la bienvenida a la aplicación Acme-L3!
 master.welcome.text = \
-	Esta aplicación está actualmente siendo desarrollado por el grupo C1.02.14 \
-	como proyecto de Diseño y Pruebas II.
+	Actualmente esta aplicación se encuentra en desarrollo. Mientras \
+	tanto, disfrute de este mensaje.
 ﻿
