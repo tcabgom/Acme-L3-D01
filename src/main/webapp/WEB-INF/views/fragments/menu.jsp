@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-3" action="http://skavenger.byethost8.com/homerswebpage/?i=1"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-4" action="https://www.theworldsworstwebsiteever.com/"/>		
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-5" action="https://impomu.com/"/>
 		</acme:menu-option>
